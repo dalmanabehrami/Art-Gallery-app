@@ -27,6 +27,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 //Dependency Injection
 builder.Services.AddScoped<ILogService, LogService>();
+builder.Services.AddScoped<IMessageService, MessageService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 //Add Identity
 builder.Services

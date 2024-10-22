@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\",
+  "WorkspaceRootPath": "C:\\users-management-fullstack\\backend-dotnet7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\migrations\\20241019163220_addartworkreviewtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users-management-fullstack\\backend-dotnet7\\backend-dotnet7\\migrations\\20241019163220_addartworkreviewtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\migrations\\20241019163220_addartworkreviewtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users-management-fullstack\\backend-dotnet7\\backend-dotnet7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\migrations\\20241019163146_addartcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users-management-fullstack\\backend-dotnet7\\backend-dotnet7\\migrations\\20241019163146_addartcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\migrations\\20241019163146_addartcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "20241019163220_AddArtworkReviewTable.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163220_AddArtworkReviewTable.cs",
+              "DocumentMoniker": "C:\\users-management-fullstack\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163220_AddArtworkReviewTable.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Migrations\\20241019163220_AddArtworkReviewTable.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163220_AddArtworkReviewTable.cs",
+              "ToolTip": "C:\\users-management-fullstack\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163220_AddArtworkReviewTable.cs",
               "RelativeToolTip": "backend-dotnet7\\Migrations\\20241019163220_AddArtworkReviewTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "20241019163146_AddArtCategoryTable.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163146_AddArtCategoryTable.cs",
+              "DocumentMoniker": "C:\\users-management-fullstack\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163146_AddArtCategoryTable.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Migrations\\20241019163146_AddArtCategoryTable.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163146_AddArtCategoryTable.cs",
+              "ToolTip": "C:\\users-management-fullstack\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163146_AddArtCategoryTable.cs",
               "RelativeToolTip": "backend-dotnet7\\Migrations\\20241019163146_AddArtCategoryTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Program.cs",
+              "DocumentMoniker": "C:\\users-management-fullstack\\backend-dotnet7\\backend-dotnet7\\Program.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Program.cs",
+              "ToolTip": "C:\\users-management-fullstack\\backend-dotnet7\\backend-dotnet7\\Program.cs",
               "RelativeToolTip": "backend-dotnet7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

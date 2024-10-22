@@ -1,0 +1,1161 @@
+[
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtCategoryController",
+    "Method": "CreateArtCategory",
+    "RelativePath": "api/ArtCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "artCategoryCreateDto",
+        "Type": "ArtCategoryCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtCategoryController",
+    "Method": "GetAllArtCategories",
+    "RelativePath": "api/ArtCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtCategoryController",
+    "Method": "GetArtCategoryById",
+    "RelativePath": "api/ArtCategory/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtCategoryController",
+    "Method": "UpdateArtCategory",
+    "RelativePath": "api/ArtCategory/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "artCategoryUpdateDto",
+        "Type": "ArtCategoryUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtCategoryController",
+    "Method": "DeleteArtCategory",
+    "RelativePath": "api/ArtCategory/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtistController",
+    "Method": "CreateArtist",
+    "RelativePath": "api/Artist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "artistCreateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Artist.ArtistCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtistController",
+    "Method": "GetAllArtists",
+    "RelativePath": "api/Artist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtistController",
+    "Method": "GetArtistById",
+    "RelativePath": "api/Artist/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtistController",
+    "Method": "UpdateArtist",
+    "RelativePath": "api/Artist/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "artistUpdateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Artist.ArtistUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtistController",
+    "Method": "DeleteArtist",
+    "RelativePath": "api/Artist/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtworkController",
+    "Method": "CreateArtwork",
+    "RelativePath": "api/Artwork",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "artworkCreateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Artwork.ArtworkCreatoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtworkController",
+    "Method": "GetAllArtworks",
+    "RelativePath": "api/Artwork",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtworkController",
+    "Method": "GetArtworkById",
+    "RelativePath": "api/Artwork/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtworkController",
+    "Method": "UpdateArtwork",
+    "RelativePath": "api/Artwork/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "artworkUpdateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Artwork.ArtworkCreatoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtworkController",
+    "Method": "DeleteArtwork",
+    "RelativePath": "api/Artwork/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtworkReviewController",
+    "Method": "CreateArtworkReview",
+    "RelativePath": "api/ArtworkReview",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "artworkReviewCreateDto",
+        "Type": "ArtworkReviewCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtworkReviewController",
+    "Method": "GetAllArtworkReviews",
+    "RelativePath": "api/ArtworkReview",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtworkReviewController",
+    "Method": "GetArtworkReviewById",
+    "RelativePath": "api/ArtworkReview/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtworkReviewController",
+    "Method": "UpdateArtworkReview",
+    "RelativePath": "api/ArtworkReview/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "artworkReviewUpdateDto",
+        "Type": "ArtworkReviewUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ArtworkReviewController",
+    "Method": "DeleteArtworkReview",
+    "RelativePath": "api/ArtworkReview/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "backend_dotnet7.Core.Dtos.Auth.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "backend_dotnet7.Core.Dtos.Auth.LoginServiceResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.AuthController",
+    "Method": "Me",
+    "RelativePath": "api/Auth/me",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "backend_dotnet7.Core.Dtos.Auth.MeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "backend_dotnet7.Core.Dtos.Auth.LoginServiceResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDto",
+        "Type": "backend_dotnet7.Core.Dtos.Auth.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.AuthController",
+    "Method": "SeedRoles",
+    "RelativePath": "api/Auth/seed-roles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.AuthController",
+    "Method": "UpdateRole",
+    "RelativePath": "api/Auth/update-role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateRoleDto",
+        "Type": "backend_dotnet7.Core.Dtos.Auth.UpdateRoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.AuthController",
+    "Method": "GetUserNamesList",
+    "RelativePath": "api/Auth/usernames",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.AuthController",
+    "Method": "GetUsersList",
+    "RelativePath": "api/Auth/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[backend_dotnet7.Core.Dtos.Auth.UserInfoResult, backend-dotnet7, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.AuthController",
+    "Method": "GetUserDetailsByUserName",
+    "RelativePath": "api/Auth/users/{userName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "backend_dotnet7.Core.Dtos.Auth.UserInfoResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.CustomerController",
+    "Method": "RegisterCustomer",
+    "RelativePath": "api/Customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerCreateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Customer.CustomerCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.CustomerController",
+    "Method": "GetAllCustomers",
+    "RelativePath": "api/Customer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.CustomerController",
+    "Method": "GetCustomerById",
+    "RelativePath": "api/Customer/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.CustomerController",
+    "Method": "UpdateCustomer",
+    "RelativePath": "api/Customer/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "customerUpdateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Customer.CustomerUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.CustomerController",
+    "Method": "DeleteCustomer",
+    "RelativePath": "api/Customer/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.DiscountController",
+    "Method": "CreateDiscount",
+    "RelativePath": "api/Discount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "discountCreateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Discount.DiscountCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.DiscountController",
+    "Method": "GetAllDiscounts",
+    "RelativePath": "api/Discount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.DiscountController",
+    "Method": "GetDiscountById",
+    "RelativePath": "api/Discount/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.DiscountController",
+    "Method": "UpdateDiscount",
+    "RelativePath": "api/Discount/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "discountUpdateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Discount.DiscountUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.DiscountController",
+    "Method": "DeleteDiscount",
+    "RelativePath": "api/Discount/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ExhibitionController",
+    "Method": "CreateExhibition",
+    "RelativePath": "api/Exhibition",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "exhibitionCreateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Exhibition.ExhibitionCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ExhibitionController",
+    "Method": "GetAllExhibitions",
+    "RelativePath": "api/Exhibition",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ExhibitionController",
+    "Method": "GetExhibitionById",
+    "RelativePath": "api/Exhibition/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ExhibitionController",
+    "Method": "UpdateExhibition",
+    "RelativePath": "api/Exhibition/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "exhibitionUpdateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Exhibition.ExhibitionUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.ExhibitionController",
+    "Method": "DeleteExhibition",
+    "RelativePath": "api/Exhibition/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.LogsController",
+    "Method": "GetLogs",
+    "RelativePath": "api/Logs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[backend_dotnet7.Core.Dtos.Log.GetLogDto, backend-dotnet7, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.LogsController",
+    "Method": "GetMyLogs",
+    "RelativePath": "api/Logs/mine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[backend_dotnet7.Core.Dtos.Log.GetLogDto, backend-dotnet7, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.MessageController",
+    "Method": "GetMessages",
+    "RelativePath": "api/Message",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[backend_dotnet7.Core.Dtos.Message.GetMessageDto, backend-dotnet7, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.MessageController",
+    "Method": "CreateNewMessage",
+    "RelativePath": "api/Message/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createMessageDTO",
+        "Type": "backend_dotnet7.Core.Dtos.Message.CreateMessageDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.MessageController",
+    "Method": "GetMyMessages",
+    "RelativePath": "api/Message/mine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[backend_dotnet7.Core.Dtos.Message.GetMessageDto, backend-dotnet7, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.SalesReportController",
+    "Method": "CreateSalesReport",
+    "RelativePath": "api/SalesReport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "salesReportCreateDto",
+        "Type": "backend_dotnet7.Core.Dtos.SalesReport.SalesReportCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.SalesReportController",
+    "Method": "GetAllSalesReports",
+    "RelativePath": "api/SalesReport",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.SalesReportController",
+    "Method": "GetSalesReportById",
+    "RelativePath": "api/SalesReport/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.SalesReportController",
+    "Method": "UpdateSalesReport",
+    "RelativePath": "api/SalesReport/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "salesReportUpdateDto",
+        "Type": "backend_dotnet7.Core.Dtos.SalesReport.SalesReportUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.TestController",
+    "Method": "GetAdminData",
+    "RelativePath": "api/Test/get-admin-role",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.TestController",
+    "Method": "GetManagerData",
+    "RelativePath": "api/Test/get-manager-role",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.TestController",
+    "Method": "GetOwnerData",
+    "RelativePath": "api/Test/get-owner-role",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.TestController",
+    "Method": "GetPublicData",
+    "RelativePath": "api/Test/get-public",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.TestController",
+    "Method": "GetUserData",
+    "RelativePath": "api/Test/get-user-role",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.TransactionController",
+    "Method": "CreateTransaction",
+    "RelativePath": "api/Transaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transactionCreateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Transaction.TransactionCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.TransactionController",
+    "Method": "GetAllTransactions",
+    "RelativePath": "api/Transaction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.TransactionController",
+    "Method": "GetTransactionById",
+    "RelativePath": "api/Transaction/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.TransactionController",
+    "Method": "UpdateTransaction",
+    "RelativePath": "api/Transaction/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "transactionUpdateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Transaction.TransactionUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.TransactionController",
+    "Method": "DeleteTransaction",
+    "RelativePath": "api/Transaction/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.VisitorController",
+    "Method": "RegisterVisitor",
+    "RelativePath": "api/Visitor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "visitorCreateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Visitor.VisitorCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.VisitorController",
+    "Method": "GetAllVisitors",
+    "RelativePath": "api/Visitor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.VisitorController",
+    "Method": "GetVisitorById",
+    "RelativePath": "api/Visitor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.VisitorController",
+    "Method": "UpdateVisitor",
+    "RelativePath": "api/Visitor/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "visitorUpdateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Visitor.VisitorUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.VisitorController",
+    "Method": "DeleteVisitor",
+    "RelativePath": "api/Visitor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.VisitorStatisticsController",
+    "Method": "CreateVisitorStatistics",
+    "RelativePath": "api/VisitorStatistics",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "visitorStatisticsCreateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Visitor.VisitorStatisticsCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.VisitorStatisticsController",
+    "Method": "GetAllVisitorStatistics",
+    "RelativePath": "api/VisitorStatistics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.VisitorStatisticsController",
+    "Method": "GetVisitorStatisticsById",
+    "RelativePath": "api/VisitorStatistics/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.VisitorStatisticsController",
+    "Method": "UpdateVisitorStatistics",
+    "RelativePath": "api/VisitorStatistics/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "visitorStatisticsUpdateDto",
+        "Type": "backend_dotnet7.Core.Dtos.Visitor.VisitorStatisticsUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_dotnet7.Controllers.VisitorStatisticsController",
+    "Method": "DeleteVisitorStatistics",
+    "RelativePath": "api/VisitorStatistics/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

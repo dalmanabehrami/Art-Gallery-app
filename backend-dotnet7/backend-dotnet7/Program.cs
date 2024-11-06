@@ -5,7 +5,6 @@ using backend_dotnet7.Core.Interfaces;
 using backend_dotnet7.Core.MappingProfiles;
 using backend_dotnet7.Core.Profiles;
 using backend_dotnet7.Core.Services;
-using backend_dotnet7.Migrations;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;

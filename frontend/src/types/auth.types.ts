@@ -83,7 +83,7 @@ export interface IRegisterDto {
   }
   
   export enum RolesEnum {
-    ADMIN = 'Admin',
+    ADMIN = 'ADMIN',
     DOCTOR = 'Doctor',
     NURSE = 'Nurse',
     PATIENT = 'Patient',

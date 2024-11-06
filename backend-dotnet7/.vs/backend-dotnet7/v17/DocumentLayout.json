@@ -1,210 +1,206 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\migrations\\20241102233853_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\migrations\\20241102233853_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\exhibitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\exhibitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\artworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\artworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\automapperconfig\\artcategoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\automapperconfig\\artcategoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitor\\visitorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitor\\visitorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitor\\visitorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitor\\visitorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitor\\visitordeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitor\\visitordeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitor\\visitorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitor\\visitorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\transaction\\transactionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\transaction\\transactionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\transaction\\transactionreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\transaction\\transactionreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\transaction\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\transaction\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\salesreport\\salesreportupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\salesreport\\salesreportupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\salesreport\\salesreportreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\salesreport\\salesreportreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\salesreport\\salesreportcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\salesreport\\salesreportcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\exhibition\\exhiitionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\exhibition\\exhiitionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\exhibition\\exhibitionreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\exhibition\\exhibitionreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\exhibition\\exhibitiondeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\exhibition\\exhibitiondeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\exhibition\\exhibitioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\exhibition\\exhibitioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\discount\\discountupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\discount\\discountupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\discount\\discountreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\discount\\discountreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\discount\\discountcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\discount\\discountcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\customer\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\customer\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\customer\\customerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\customer\\customerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\customer\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\customer\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artwork\\artworkreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artwork\\artworkreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artwork\\artworkcreatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artwork\\artworkcreatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artist\\artistupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artist\\artistupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artist\\artistreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artist\\artistreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artist\\artistcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artist\\artistcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artcategory\\artcategoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artcategory\\artcategoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artcategory\\artcategoryreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artcategory\\artcategoryreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artcategory\\artcategorydeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artcategory\\artcategorydeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artcategory\\artcategorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artcategory\\artcategorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\automapperconfig\\artworkprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\automapperconfig\\artworkprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\automapperconfig\\artworkreviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\automapperconfig\\artworkreviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\migrations\\20241019163220_addartworkreviewtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\migrations\\20241019163220_addartworkreviewtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\user\\desktop\\artgallery\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\migrations\\20241019163146_addartcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\migrations\\20241019163146_addartcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\visitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\salesreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\exhibitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\exhibitioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\artworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\artworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\automapperconfig\\artcategoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\automapperconfig\\artcategoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticsdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitorstatistics\\visitorstatisticscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitor\\visitorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitor\\visitorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitor\\visitorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitor\\visitorreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitor\\visitordeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitor\\visitordeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\visitor\\visitorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\visitor\\visitorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\transaction\\transactionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\transaction\\transactionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\transaction\\transactionreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\transaction\\transactionreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\transaction\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\transaction\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\salesreport\\salesreportupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\salesreport\\salesreportupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\salesreport\\salesreportreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\salesreport\\salesreportreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\salesreport\\salesreportcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\salesreport\\salesreportcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\exhibition\\exhiitionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\exhibition\\exhiitionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\exhibition\\exhibitionreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\exhibition\\exhibitionreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\exhibition\\exhibitiondeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\exhibition\\exhibitiondeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\exhibition\\exhibitioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\exhibition\\exhibitioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\discount\\discountupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\discount\\discountupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\discount\\discountreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\discount\\discountreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\discount\\discountcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\discount\\discountcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\customer\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\customer\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\customer\\customerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\customer\\customerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\customer\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\customer\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artworkreview\\artworkreviewcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artwork\\artworkreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artwork\\artworkreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artwork\\artworkcreatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artwork\\artworkcreatodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artist\\artistupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artist\\artistupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artist\\artistreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artist\\artistreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artist\\artistcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artist\\artistcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artcategory\\artcategoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artcategory\\artcategoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artcategory\\artcategoryreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artcategory\\artcategoryreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artcategory\\artcategorydeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artcategory\\artcategorydeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\dtos\\artcategory\\artcategorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\dtos\\artcategory\\artcategorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\automapperconfig\\artworkprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\automapperconfig\\artworkprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|c:\\users\\pc\\onedrive\\desktop\\app-gallery-app\\art-gallery-app\\backend-dotnet7\\backend-dotnet7\\core\\automapperconfig\\artworkreviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B1B27B-4966-46C2-ABB3-D5C2AA6BD75B}|backend-dotnet7\\backend-dotnet7.csproj|solutionrelative:backend-dotnet7\\core\\automapperconfig\\artworkreviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -223,613 +219,601 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VisitorController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\VisitorController.cs",
-              "RelativeDocumentMoniker": "backend-dotnet7\\Controllers\\VisitorController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\VisitorController.cs",
-              "RelativeToolTip": "backend-dotnet7\\Controllers\\VisitorController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Title": "20241102233853_init.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241102233853_init.cs",
+              "RelativeDocumentMoniker": "backend-dotnet7\\Migrations\\20241102233853_init.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241102233853_init.cs",
+              "RelativeToolTip": "backend-dotnet7\\Migrations\\20241102233853_init.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T13:01:57.661Z",
+              "WhenOpened": "2024-11-02T23:38:53.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "VisitorController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\VisitorController.cs",
+              "RelativeDocumentMoniker": "backend-dotnet7\\Controllers\\VisitorController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\VisitorController.cs",
+              "RelativeToolTip": "backend-dotnet7\\Controllers\\VisitorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:01:57.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TransactionController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\TransactionController.cs",
               "RelativeToolTip": "backend-dotnet7\\Controllers\\TransactionController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:59:10.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SalesReportController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\SalesReportController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\SalesReportController.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Controllers\\SalesReportController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\SalesReportController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\SalesReportController.cs",
               "RelativeToolTip": "backend-dotnet7\\Controllers\\SalesReportController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:56:04.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ExhibitionController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ExhibitionController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ExhibitionController.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Controllers\\ExhibitionController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ExhibitionController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ExhibitionController.cs",
               "RelativeToolTip": "backend-dotnet7\\Controllers\\ExhibitionController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:51:30.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "backend-dotnet7\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:45:30.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DiscountController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\DiscountController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\DiscountController.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Controllers\\DiscountController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\DiscountController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\DiscountController.cs",
               "RelativeToolTip": "backend-dotnet7\\Controllers\\DiscountController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:45:28.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ArtworkController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ArtworkController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ArtworkController.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Controllers\\ArtworkController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ArtworkController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ArtworkController.cs",
               "RelativeToolTip": "backend-dotnet7\\Controllers\\ArtworkController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:35:53.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ArtistController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ArtistController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ArtistController.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Controllers\\ArtistController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ArtistController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Controllers\\ArtistController.cs",
               "RelativeToolTip": "backend-dotnet7\\Controllers\\ArtistController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:33:00.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "VisitorStatisticsUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsUpdateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsUpdateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsUpdateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:20:30.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "VisitorStatisticsReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsReadDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsReadDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsReadDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsReadDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsReadDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:20:13.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "VisitorStatisticsDeleteDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsDeleteDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsDeleteDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsDeleteDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsDeleteDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsDeleteDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsDeleteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:19:55.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ArtCategoryProfile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtCategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtCategoryProfile.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\AutoMapperConfig\\ArtCategoryProfile.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtCategoryProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtCategoryProfile.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\AutoMapperConfig\\ArtCategoryProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:30:52.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "VisitorStatisticsCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsCreateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsCreateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsCreateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\VisitorStatistics\\VisitorStatisticsCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:19:36.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "VisitorUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorUpdateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorUpdateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorUpdateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:18:07.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "VisitorReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorReadDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorReadDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorReadDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorReadDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorReadDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:17:46.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "VisitorDeleteDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorDeleteDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorDeleteDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorDeleteDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorDeleteDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorDeleteDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorDeleteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:17:20.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "VisitorCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorCreateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorCreateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorCreateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Visitor\\VisitorCreateDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:16:58.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "TransactionUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionUpdateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionUpdateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionUpdateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionUpdateDto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:15:19.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "TransactionReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionReadDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionReadDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionReadDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionReadDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionReadDto.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:15:01.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "TransactionCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionCreateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionCreateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionCreateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Transaction\\TransactionCreateDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:14:38.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "SalesReportUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportUpdateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportUpdateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportUpdateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportUpdateDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:12:01.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "SalesReportReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportReadDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportReadDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportReadDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportReadDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportReadDto.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:11:42.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "SalesReportCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportCreateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportCreateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportCreateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\SalesReport\\SalesReportCreateDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:11:19.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "ExhiitionUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhiitionUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhiitionUpdateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhiitionUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhiitionUpdateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhiitionUpdateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhiitionUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAUAAAAvAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:09:24.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "ExhibitionReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionReadDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionReadDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionReadDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionReadDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionReadDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:09:03.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "ExhibitionDeleteDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionDeleteDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionDeleteDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionDeleteDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionDeleteDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionDeleteDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionDeleteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:08:44.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ExhibitionCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionCreateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionCreateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionCreateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Exhibition\\ExhibitionCreateDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:08:18.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "DiscountUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountUpdateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Discount\\DiscountUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountUpdateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountUpdateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Discount\\DiscountUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAcAAAAtAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:06:42.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "DiscountReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountReadDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Discount\\DiscountReadDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountReadDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountReadDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Discount\\DiscountReadDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:06:16.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "DiscountCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountCreateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Discount\\DiscountCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountCreateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Discount\\DiscountCreateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Discount\\DiscountCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:05:41.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "CustomerUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerUpdateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Customer\\CustomerUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerUpdateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerUpdateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Customer\\CustomerUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:04:00.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "CustomerReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerReadDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Customer\\CustomerReadDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerReadDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerReadDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Customer\\CustomerReadDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAoAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:03:42.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "CustomerCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerCreateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Customer\\CustomerCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerCreateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Customer\\CustomerCreateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Customer\\CustomerCreateDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:03:18.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "ArtworkReviewUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewUpdateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewUpdateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewUpdateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:57:08.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "ArtworkReviewReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewReadDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewReadDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewReadDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewReadDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewReadDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAQAAAA+AAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:56:50.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "ArtworkReviewDeleteDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewDeleteDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewDeleteDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewDeleteDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewDeleteDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewDeleteDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewDeleteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:56:25.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "ArtworkReviewCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewCreateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewCreateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewCreateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\ArtworkReview\\ArtworkReviewCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:55:56.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ArtworkReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkReadDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkReadDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkReadDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkReadDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkReadDto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:54:21.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "ArtworkCreatoDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkCreatoDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkCreatoDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkCreatoDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkCreatoDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkCreatoDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Artwork\\ArtworkCreatoDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:53:54.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "ArtistUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistUpdateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Artist\\ArtistUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistUpdateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistUpdateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Artist\\ArtistUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:51:43.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "ArtistReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistReadDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Artist\\ArtistReadDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistReadDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistReadDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Artist\\ArtistReadDto.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:51:25.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "ArtistCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistCreateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\Artist\\ArtistCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistCreateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\Artist\\ArtistCreateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\Artist\\ArtistCreateDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:50:47.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "ArtCategoryUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryUpdateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryUpdateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryUpdateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryUpdateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:48:38.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "ArtCategoryReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryReadDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryReadDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryReadDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryReadDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryReadDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:48:23.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "ArtCategoryDeleteDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryDeleteDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryDeleteDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryDeleteDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryDeleteDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryDeleteDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryDeleteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:47:47.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "ArtCategoryCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryCreateDto.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryCreateDto.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryCreateDto.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\Dtos\\ArtCategory\\ArtCategoryCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:47:20.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "ArtworkProfile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkProfile.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkProfile.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkProfile.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:30:51.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "ArtworkReviewProfile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkReviewProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkReviewProfile.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkReviewProfile.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkReviewProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkReviewProfile.cs",
               "RelativeToolTip": "backend-dotnet7\\Core\\AutoMapperConfig\\ArtworkReviewProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:30:49.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "20241019163220_AddArtworkReviewTable.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163220_AddArtworkReviewTable.cs",
-              "RelativeDocumentMoniker": "backend-dotnet7\\Migrations\\20241019163220_AddArtworkReviewTable.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163220_AddArtworkReviewTable.cs",
-              "RelativeToolTip": "backend-dotnet7\\Migrations\\20241019163220_AddArtworkReviewTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T16:32:21.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "20241019163146_AddArtCategoryTable.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163146_AddArtCategoryTable.cs",
-              "RelativeDocumentMoniker": "backend-dotnet7\\Migrations\\20241019163146_AddArtCategoryTable.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Migrations\\20241019163146_AddArtCategoryTable.cs",
-              "RelativeToolTip": "backend-dotnet7\\Migrations\\20241019163146_AddArtCategoryTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T16:31:47.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Program.cs",
               "RelativeDocumentMoniker": "backend-dotnet7\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\ArtGallery\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\App-Gallery-App\\Art-Gallery-app\\backend-dotnet7\\backend-dotnet7\\Program.cs",
               "RelativeToolTip": "backend-dotnet7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAASwAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T16:31:07.977Z"
             }

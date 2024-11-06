@@ -12,15 +12,15 @@ using backend_dotnet7.Core.DbContext;
 namespace backend_dotnet7.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241019155828_AddVisitorStatisticsTable")]
-    partial class AddVisitorStatisticsTable
+    [Migration("20241102233853_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.8")
+                .HasAnnotation("ProductVersion", "8.0.10")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -301,6 +301,27 @@ namespace backend_dotnet7.Migrations
                     b.ToTable("Users", (string)null);
                 });
 
+            modelBuilder.Entity("backend_dotnet7.Core.Entities.ArtCategory", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("ArtCategories");
+                });
+
             modelBuilder.Entity("backend_dotnet7.Core.Entities.Artist", b =>
                 {
                     b.Property<int>("Id")
@@ -338,6 +359,9 @@ namespace backend_dotnet7.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int?>("ArtCategoryId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Artist")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -374,6 +398,8 @@ namespace backend_dotnet7.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("ArtCategoryId");
+
                     b.HasIndex("ArtistId");
 
                     b.HasIndex("CustomerId");
@@ -381,6 +407,38 @@ namespace backend_dotnet7.Migrations
                     b.HasIndex("ExhibitionId");
 
                     b.ToTable("ArtWorks", (string)null);
+                });
+
+            modelBuilder.Entity("backend_dotnet7.Core.Entities.ArtworkReview", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("ArtworkId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Comment")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("Rating")
+                        .HasColumnType("int");
+
+                    b.Property<string>("UserName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ArtworkId");
+
+                    b.ToTable("ArtworkReviews");
                 });
 
             modelBuilder.Entity("backend_dotnet7.Core.Entities.Customer", b =>
@@ -687,6 +745,10 @@ namespace backend_dotnet7.Migrations
 
             modelBuilder.Entity("backend_dotnet7.Core.Entities.Artwork", b =>
                 {
+                    b.HasOne("backend_dotnet7.Core.Entities.ArtCategory", null)
+                        .WithMany("Artworks")
+                        .HasForeignKey("ArtCategoryId");
+
                     b.HasOne("backend_dotnet7.Core.Entities.Artist", null)
                         .WithMany("Artworks")
                         .HasForeignKey("ArtistId");
@@ -698,6 +760,17 @@ namespace backend_dotnet7.Migrations
                     b.HasOne("backend_dotnet7.Core.Entities.Exhibition", null)
                         .WithMany("Artworks")
                         .HasForeignKey("ExhibitionId");
+                });
+
+            modelBuilder.Entity("backend_dotnet7.Core.Entities.ArtworkReview", b =>
+                {
+                    b.HasOne("backend_dotnet7.Core.Entities.Artwork", "Artwork")
+                        .WithMany()
+                        .HasForeignKey("ArtworkId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Artwork");
                 });
 
             modelBuilder.Entity("backend_dotnet7.Core.Entities.Transaction", b =>
@@ -728,6 +801,11 @@ namespace backend_dotnet7.Migrations
                         .IsRequired();
 
                     b.Navigation("Exhibition");
+                });
+
+            modelBuilder.Entity("backend_dotnet7.Core.Entities.ArtCategory", b =>
+                {
+                    b.Navigation("Artworks");
                 });
 
             modelBuilder.Entity("backend_dotnet7.Core.Entities.Artist", b =>

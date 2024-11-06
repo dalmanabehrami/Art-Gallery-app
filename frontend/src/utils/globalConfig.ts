@@ -1,4 +1,3 @@
-import { lazy } from "react";
 import { PATH_DASHBOARD, PATH_PUBLIC } from "../routes/paths";
 
 // URLS
@@ -17,4 +16,4 @@ export const MY_LOGS_URL = "/Logs/mine";
 export const PATH_AFTER_REGISTER = PATH_PUBLIC.login;
 export const PATH_AFTER_LOGIN = PATH_DASHBOARD.dashboard;
 export const PATH_AFTER_LOGOUT = PATH_PUBLIC.login;
-export const ArtCategoryPage = lazy(() => import("../pages/dashboard/ArtcategoryPage"));
+

@@ -3,7 +3,6 @@ import { Routes, Route, Navigate } from "react-router-dom";
 import { PATH_DASHBOARD, PATH_PUBLIC } from "./paths";
 import AuthGuard from "../auth/AuthGuard"; 
 import Layout from "../components/layout";
-import { ArtCategoryPage } from "../utils/globalConfig";
 import { allAccessRoles, adminAccessRoles } from "../auth/auth.utils";
 
 // Lazy load components
@@ -19,6 +18,9 @@ const LoginPage = lazy(() => import("../pages/public/LoginPage"));
 const NotFoundPage = lazy(() => import("../pages/public/NotFoundPage"));
 const RegisterPage = lazy(() => import("../pages/public/RegisterPage"));
 const UnauthorizedPage = lazy(() => import("../pages/public/UnauthorizedPage"));
+const ArtCategoryPage = lazy(() => import("../pages/dashboard/ArtcategoryPage"));
+const ArtworkPage = lazy(() => import("../pages/dashboard/ArtworkPage"));
+
 
 const GlobalRouter = () => {
   return (
@@ -64,6 +66,14 @@ const GlobalRouter = () => {
             element={
               <Suspense fallback={<div>Loading...</div>}>
                 <ArtCategoryPage />
+              </Suspense>
+            }
+          />
+          <Route
+            path={PATH_DASHBOARD.artworkList}
+            element={
+              <Suspense fallback={<div>Loading...</div>}>
+                <ArtworkPage />
               </Suspense>
             }
           />

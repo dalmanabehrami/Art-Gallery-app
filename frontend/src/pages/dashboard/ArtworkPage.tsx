@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { getArtworks, createArtwork, updateArtwork, deleteArtwork } from '../../services/artworkService';
 import { ArtworkCreateDto, ArtworkReadDto } from '../../types/artworkTypes';
-import ArtworkForm from './components/artworkForm';
 import ArtworkList from './components/ArtworkList';
+import ArtworkForm from './components/ArtworkForm';
 
 const ArtworksPage: React.FC = () => {
   const [artworks, setArtworks] = useState<ArtworkReadDto[]>([]);

@@ -15,9 +15,9 @@ export const PATH_DASHBOARD = {
   user: "/dashboard/user",
   
   // Art Related Routes
-  artworkList: "/artworks/artwork-list", // Shfaq listën e veprave të artit
-  addArtwork: "/artworks/add-artwork", // Shto vepra arti të reja
-  editArtwork: "/artworks/edit-artwork/:id", // Modifiko veprat ekzistuese
+  artworkList: "/dashboard/artwork-list", // Shfaq listën e veprave të artit
+  addArtwork: "/dashboard/add-artwork", // Shto vepra arti të reja
+  editArtwork: "/dashboard/edit-artwork/:id", // Modifiko veprat ekzistuese
   
   // Art Category Related Routes
   artCategoryPage: "/dashboard/artcategoryPage",
